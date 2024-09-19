@@ -21,3 +21,28 @@ console.log(nome3)
 let disciplina = null
 console.log(disciplina)
 
+// tipos de variaveis 
+
+// inteiros 
+let idade = 18;
+console.log(idade)
+
+// flutuantes ou com casas decimais
+let valor = 6.40;
+console.log(valor)
+
+//string(textos) con aspas duplas, gira aspas 
+let texto ="Fiap";
+console.log(texto)
+
+// booleanas - true or false
+
+let aluno = true;
+console.log(aluno)
+
+// array - conjunto de informações
+
+let tecnologias = ["Java", "C#", "HTML", "css"]
+console.log(tecnologias)
+
+
